@@ -1,5 +1,9 @@
 # Deep Learning Specialization on Coursera
 
+## Statement
+
+This repo is forked from [Kulbear/deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera) and separate questions and answers for reference.
+
 **Master Deep Learning, and Break into AI**
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
