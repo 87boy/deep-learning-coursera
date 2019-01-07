@@ -4,6 +4,9 @@
 
 This repo is forked from [Kulbear/deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera) and separate questions and answers for reference.
 
+- /answer: questions with answers
+- /question: only the questions, without answers
+
 **Master Deep Learning, and Break into AI**
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
